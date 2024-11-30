@@ -1034,3 +1034,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Nov2024 06:09:34.707] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-336}
 [30Nov2024 06:17:13.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Sucker
 [30Nov2024 06:17:13.280] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[30Nov2024 06:28:55.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was squashed by a falling anvil
+[30Nov2024 06:28:55.043] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[30Nov2024 06:29:38.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was doomed to fall by The Bruin
+[30Nov2024 06:29:38.597] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
