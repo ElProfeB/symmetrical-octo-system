@@ -235,6 +235,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-11-30 06:13:49 +0000",
       "pumpkin_pie": "2024-11-29 05:45:50 +0000",
       "bread": "2024-11-29 05:25:35 +0000",
       "carrot": "2024-11-30 05:51:41 +0000"
@@ -343,6 +344,12 @@
       "inv_changed-netherite": "2024-11-30 05:17:30 +0000"
     },
     "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "orange": "2024-11-30 06:08:38 +0000"
+    },
+    "done": false
   },
   "toms_storage:unlock_chest": {
     "criteria": {
