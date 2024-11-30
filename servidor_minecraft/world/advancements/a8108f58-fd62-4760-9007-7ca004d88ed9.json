@@ -331,6 +331,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-11-30 07:00:24 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2024-11-30 05:12:50 +0000"
@@ -353,6 +359,18 @@
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2024-11-30 05:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-11-30 06:57:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-30 06:54:25 +0000"
     },
     "done": true
   },
