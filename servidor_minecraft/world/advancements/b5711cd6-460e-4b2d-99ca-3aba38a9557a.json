@@ -236,7 +236,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "pumpkin_pie": "2024-11-29 05:45:50 +0000",
-      "bread": "2024-11-29 05:25:35 +0000"
+      "bread": "2024-11-29 05:25:35 +0000",
+      "carrot": "2024-11-30 05:51:41 +0000"
     },
     "done": false
   },
@@ -315,6 +316,12 @@
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2024-11-30 05:17:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-11-30 05:47:05 +0000"
     },
     "done": true
   },
