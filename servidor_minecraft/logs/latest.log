@@ -1038,3 +1038,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Nov2024 06:28:55.043] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
 [30Nov2024 06:29:38.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was doomed to fall by The Bruin
 [30Nov2024 06:29:38.597] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[30Nov2024 06:33:31.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 fell from a high place
+[30Nov2024 06:33:31.402] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[30Nov2024 06:39:09.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElProfeB99 moved wrongly!
+[30Nov2024 06:39:27.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was killed by Savannah Zombie using magic
+[30Nov2024 06:39:27.994] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
