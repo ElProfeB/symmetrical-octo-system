@@ -386,5 +386,18 @@
     },
     "done": true
   },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "orange": "2024-12-01 05:37:26 +0000",
+      "yellow": "2024-12-01 05:38:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-01 05:45:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
