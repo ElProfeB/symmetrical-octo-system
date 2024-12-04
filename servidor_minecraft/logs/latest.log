@@ -934,3 +934,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 05:50:52.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/17401, l='ServerLevel[world]', x=331.70, y=71.00, z=-133.52] died, message: 'Scribe was sniped by Archer'
 [04Dec2024 05:51:00.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Vindicator
 [04Dec2024 05:51:00.189] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:51:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by Basher
+[04Dec2024 05:51:05.563] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:51:12.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Vindicator
+[04Dec2024 05:51:12.756] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:51:24.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Vindicator
+[04Dec2024 05:51:24.794] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:51:52.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was killed by magic
+[04Dec2024 05:51:52.956] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:52:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by Basher
+[04Dec2024 05:52:14.162] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:52:51.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was impaled by Marauder
+[04Dec2024 05:52:51.687] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:52:55.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was impaled by Marauder
+[04Dec2024 05:52:55.582] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:53:07.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Ol' Betsy]
+[04Dec2024 05:53:19.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 has reached the goal [A Fast Comeback]
+[04Dec2024 05:53:25.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was sniped by Archer
+[04Dec2024 05:53:25.892] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:53:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was slain by Vindicator
+[04Dec2024 05:53:33.439] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[04Dec2024 05:53:46.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was killed by magic
+[04Dec2024 05:53:46.430] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:54:03.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was killed by magic
+[04Dec2024 05:54:03.426] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:54:21.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was slain by Vindicator
+[04Dec2024 05:54:21.521] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[04Dec2024 05:54:41.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 went off with a bang
+[04Dec2024 05:54:41.167] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:55:00.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Vindicator
+[04Dec2024 05:55:00.293] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:55:04.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 has made the advancement [I was here, i lived, i..]
+[04Dec2024 05:55:10.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was shot by Illusioner
+[04Dec2024 05:55:10.172] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:55:16.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [World of illusion]
+[04Dec2024 05:56:45.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Decaying Zombie
+[04Dec2024 05:56:45.574] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:58:41.374] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39876, l='ServerLevel[world]', x=86.81, y=-256.00, z=47.43] died, message: 'Villager was killed'
+[04Dec2024 06:00:10.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Dec2024 06:00:28.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
+[04Dec2024 06:00:45.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[04Dec2024 06:00:59.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shiza9828 lost connection: Disconnected
+[04Dec2024 06:00:59.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 left the game
+[04Dec2024 06:01:16.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
