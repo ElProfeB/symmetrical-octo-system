@@ -815,3 +815,61 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 05:29:03.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [04Dec2024 05:29:29.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [04Dec2024 05:30:14.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[04Dec2024 05:30:41.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04Dec2024 05:31:42.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Voluntary Exile]
+[04Dec2024 05:32:11.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has reached the goal [Fortuitous Militia]
+[04Dec2024 05:33:07.990] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/17402, l='ServerLevel[world]', x=326.17, y=71.50, z=-144.60] died, message: 'Beekeeper tried to swim in lava'
+[04Dec2024 05:33:29.888] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Megaskich1 with unique ID 534a0cae-bf82-4ed1-b4cb-486d695985da
+[04Dec2024 05:33:29.888] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 351 Y: 71 Z: -79
+[04Dec2024 05:33:29.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was chopped to bits by Skirmisher
+[04Dec2024 05:33:29.900] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:33:40.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/17327, l='ServerLevel[world]', x=416.73, y=73.25, z=-104.79] died, message: 'Beekeeper was shot by Pillager'
+[04Dec2024 05:33:50.312] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElProfeB99 with unique ID a5f0f1a3-5b9a-43ef-a473-2c308594b38e
+[04Dec2024 05:33:50.313] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 363 Y: 70 Z: -80
+[04Dec2024 05:33:50.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Vindicator
+[04Dec2024 05:33:50.418] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:34:00.680] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/16949, l='ServerLevel[world]', x=348.50, y=77.88, z=-92.89] died, message: 'Scribe was chopped to bits by Skirmisher'
+[04Dec2024 05:34:02.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was chopped to bits by Skirmisher
+[04Dec2024 05:34:02.171] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:34:11.860] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID 807929c8-d721-44d9-9b67-1a4992587ba7
+[04Dec2024 05:34:11.861] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 322 Y: 77 Z: -59
+[04Dec2024 05:34:11.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was slain by Ravager
+[04Dec2024 05:34:11.876] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[04Dec2024 05:34:38.906] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/17424, l='ServerLevel[world]', x=415.32, y=69.42, z=-153.30] died, message: 'Beekeeper was shot by Pillager'
+[04Dec2024 05:34:53.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 has reached the goal [Fortuitous Militia]
+[04Dec2024 05:35:09.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was impaled by ElProfeB99
+[04Dec2024 05:35:09.830] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:35:19.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Ravager
+[04Dec2024 05:35:19.375] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:35:48.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/17171, l='ServerLevel[world]', x=394.83, y=67.50, z=-135.55] died, message: 'Beekeeper was slain by Basher'
+[04Dec2024 05:35:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Ravager
+[04Dec2024 05:35:54.968] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:36:12.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by The Royal
+[04Dec2024 05:36:12.475] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:36:37.381] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29552, l='ServerLevel[world]', x=86.81, y=-256.00, z=47.43] died, message: 'Villager was killed'
+[04Dec2024 05:36:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has completed the challenge [Kidney stones lookin ore]
+[04Dec2024 05:36:53.514] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID ce02cba7-28b3-4995-83d7-0e5047f46c04
+[04Dec2024 05:36:53.515] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 390 Y: 68 Z: -83
+[04Dec2024 05:36:53.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was slain by The Hunter
+[04Dec2024 05:36:53.548] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[04Dec2024 05:37:40.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by The Hunter
+[04Dec2024 05:37:40.232] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:37:55.198] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17241, l='ServerLevel[world]', x=317.31, y=72.25, z=-148.76] died, message: 'Villager was shot by Pillager'
+[04Dec2024 05:38:01.755] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID 3322723f-9c8a-4404-8790-fa6790c03eee
+[04Dec2024 05:38:01.758] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 347 Y: 67 Z: -120
+[04Dec2024 05:38:01.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was slain by Savannah Zombie
+[04Dec2024 05:38:01.780] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[04Dec2024 05:38:23.299] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Megaskich1 with unique ID fa4c3de9-7459-4337-8823-7a16467ea11d
+[04Dec2024 05:38:23.300] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 330 Y: 69 Z: -112
+[04Dec2024 05:38:23.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 went off with a bang
+[04Dec2024 05:38:23.318] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:38:28.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was sniped by Archer
+[04Dec2024 05:38:28.504] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:38:32.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has completed the challenge [Nuh UH!]
+[04Dec2024 05:38:52.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by Vindicator
+[04Dec2024 05:38:52.368] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:39:24.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was struck down by Legioner
+[04Dec2024 05:39:24.356] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:39:33.908] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/17415, l='ServerLevel[world]', x=367.17, y=64.00, z=-147.36] died, message: 'Scribe was slain by Savannah Zombie'
+[04Dec2024 05:39:36.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Basher
+[04Dec2024 05:39:36.539] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
