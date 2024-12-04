@@ -233,6 +233,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-04 04:49:46 +0000",
       "minecraft:skeleton": "2024-12-01 07:04:06 +0000",
+      "minecraft:vindicator": "2024-12-04 05:16:13 +0000",
       "minecraft:zombie": "2024-12-01 07:09:43 +0000"
     },
     "done": false
@@ -259,6 +260,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-01 07:35:14 +0000",
       "baked_potato": "2024-12-01 07:37:38 +0000",
+      "potato": "2024-12-04 05:18:07 +0000",
       "bread": "2024-12-01 07:43:48 +0000",
       "rotten_flesh": "2024-12-01 07:09:05 +0000",
       "cooked_chicken": "2024-12-01 08:22:43 +0000",
@@ -393,9 +395,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-12-04 05:10:51 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-04 04:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-04 05:16:13 +0000"
     },
     "done": true
   },
