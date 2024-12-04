@@ -741,3 +741,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 04:47:17.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 withered away whilst fighting Cockatrice
 [04Dec2024 04:47:17.662] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
 [04Dec2024 04:49:46.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 has made the advancement [Ambush]
+[04Dec2024 04:49:53.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [Ambush]
+[04Dec2024 04:49:53.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [Voluntary Exile]
+[04Dec2024 04:50:24.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Dec2024 04:51:00.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[04Dec2024 04:51:18.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3005ms or 60 ticks behind
+[04Dec2024 04:54:59.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [Knowledge raises the soul]
