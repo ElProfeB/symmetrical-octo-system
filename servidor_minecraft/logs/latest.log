@@ -873,3 +873,64 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 05:39:33.908] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/17415, l='ServerLevel[world]', x=367.17, y=64.00, z=-147.36] died, message: 'Scribe was slain by Savannah Zombie'
 [04Dec2024 05:39:36.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Basher
 [04Dec2024 05:39:36.539] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:41:03.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 burned to death
+[04Dec2024 05:41:03.486] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:42:00.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by Inquisitor
+[04Dec2024 05:42:00.689] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:42:01.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Inquisitor
+[04Dec2024 05:42:01.554] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:42:20.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Inquisitor
+[04Dec2024 05:42:20.693] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:42:35.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has reached the goal [Fortuitous Militia]
+[04Dec2024 05:42:36.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Zombie
+[04Dec2024 05:42:36.725] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:43:04.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by Zombie
+[04Dec2024 05:43:04.559] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:43:10.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was shot by Missionary
+[04Dec2024 05:43:10.675] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:43:25.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was shot by Missionary
+[04Dec2024 05:43:25.469] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:44:04.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was shot by Missionary
+[04Dec2024 05:44:04.170] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:44:18.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was shot by Missionary
+[04Dec2024 05:44:18.933] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:44:23.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by Door Knight
+[04Dec2024 05:44:23.182] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:44:52.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was shot by Missionary
+[04Dec2024 05:44:52.238] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:45:00.865] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID 7f29bcf0-afed-4c8a-b956-03e07eb7a77b
+[04Dec2024 05:45:00.867] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 350 Y: 76 Z: -123
+[04Dec2024 05:45:00.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was slain by Door Knight
+[04Dec2024 05:45:00.877] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[04Dec2024 05:45:48.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by Inquisitor
+[04Dec2024 05:45:48.954] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:46:09.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Inquisitor
+[04Dec2024 05:46:09.624] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:46:32.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was burnt to a crisp whilst fighting Inquisitor
+[04Dec2024 05:46:32.261] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:46:44.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was burnt to a crisp whilst fighting Inquisitor
+[04Dec2024 05:46:44.293] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:47:13.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Inquisitor
+[04Dec2024 05:47:13.585] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:47:27.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by Inquisitor
+[04Dec2024 05:47:27.132] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:47:30.119] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID d47c9af3-9392-4058-b3d4-64492e563f8f
+[04Dec2024 05:47:30.120] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 276 Y: 68 Z: -140
+[04Dec2024 05:47:30.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was slain by Inquisitor
+[04Dec2024 05:47:30.138] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[04Dec2024 05:50:16.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Vindicator
+[04Dec2024 05:50:16.181] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:50:29.175] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Megaskich1 with unique ID a012d471-c952-41b8-a5bc-787170742cd0
+[04Dec2024 05:50:29.177] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 339 Y: 69 Z: -111
+[04Dec2024 05:50:29.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by Vex
+[04Dec2024 05:50:29.234] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:50:33.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [Take Aim]
+[04Dec2024 05:50:44.265] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID 584af59d-9335-415a-a09d-510c3d1fa771
+[04Dec2024 05:50:44.279] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 348 Y: 72 Z: -130
+[04Dec2024 05:50:44.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was shot by Pillager
+[04Dec2024 05:50:44.289] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[04Dec2024 05:50:49.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Vindicator
+[04Dec2024 05:50:49.174] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:50:52.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/17401, l='ServerLevel[world]', x=331.70, y=71.00, z=-133.52] died, message: 'Scribe was sniped by Archer'
+[04Dec2024 05:51:00.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Vindicator
+[04Dec2024 05:51:00.189] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
