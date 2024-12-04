@@ -528,5 +528,11 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2024-12-04 05:19:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

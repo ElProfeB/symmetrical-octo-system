@@ -781,3 +781,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 05:18:52.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/17659, l='ServerLevel[world]', x=325.50, y=77.00, z=-165.20] died, message: 'Scribe drowned'
 [04Dec2024 05:19:47.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Hide and Seek]
 [04Dec2024 05:20:23.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04Dec2024 05:20:29.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 has made the advancement [An Ancient Tomb]
+[04Dec2024 05:20:41.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3629ms or 72 ticks behind
+[04Dec2024 05:20:50.000] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID 460569c6-824c-4e76-9706-b1498dec6012
+[04Dec2024 05:20:50.031] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 355 Y: 67 Z: -115
+[04Dec2024 05:20:50.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was slain by Clay Golem
+[04Dec2024 05:20:50.083] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[04Dec2024 05:20:51.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [The Most Useful Key]
+[04Dec2024 05:20:59.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2654ms or 53 ticks behind
+[04Dec2024 05:21:03.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has reached the goal [A Fast Comeback]
+[04Dec2024 05:21:54.920] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Megaskich1 with unique ID 126132a2-0059-40b1-a232-a455787a1240
+[04Dec2024 05:21:54.930] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 348 Y: 67 Z: -120
+[04Dec2024 05:21:54.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 suffocated in a wall
+[04Dec2024 05:21:54.934] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:23:10.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 drowned
+[04Dec2024 05:23:10.876] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[04Dec2024 05:23:11.754] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElProfeB99 with unique ID 8b12a29f-1639-4e37-9903-12c51e496ba0
+[04Dec2024 05:23:11.755] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 356 Y: 71 Z: -101
+[04Dec2024 05:23:11.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Savannah Zombie
+[04Dec2024 05:23:11.773] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:23:31.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Savannah Zombie
+[04Dec2024 05:23:31.086] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:24:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Savannah Zombie
+[04Dec2024 05:24:05.720] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[04Dec2024 05:24:15.278] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID 58d7d14c-ac74-4797-affe-d21c4fe6f924
+[04Dec2024 05:24:15.279] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 427 Y: 64 Z: -190
+[04Dec2024 05:24:15.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 withered away whilst fighting Bonescaller
+[04Dec2024 05:24:15.327] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[04Dec2024 05:24:20.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/17328, l='ServerLevel[world]', x=400.71, y=77.00, z=-44.54] died, message: 'Beekeeper was slain by Savannah Zombie'
+[04Dec2024 05:25:10.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Megaskich1) moved wrongly! 0.42542220031418765
+[04Dec2024 05:25:10.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Megaskich1) moved wrongly! 0.4130841341723226
+[04Dec2024 05:25:10.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Megaskich1) moved wrongly! 0.9034706753650994
+[04Dec2024 05:29:03.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Dec2024 05:29:29.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[04Dec2024 05:30:14.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
