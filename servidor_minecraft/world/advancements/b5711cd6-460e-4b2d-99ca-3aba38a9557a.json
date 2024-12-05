@@ -138,6 +138,8 @@
       "minecraft:river": "2024-11-30 07:12:22 +0000",
       "minecraft:dripstone_caves": "2024-11-29 05:03:34 +0000",
       "minecraft:forest": "2024-12-01 08:46:50 +0000",
+      "minecraft:desert": "2024-12-05 05:25:12 +0000",
+      "minecraft:jungle": "2024-12-05 05:24:50 +0000",
       "minecraft:flower_forest": "2024-11-30 07:12:04 +0000",
       "minecraft:meadow": "2024-11-29 04:58:23 +0000",
       "minecraft:savanna": "2024-11-29 04:50:39 +0000",
@@ -420,6 +422,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-01 08:52:36 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-05 05:20:52 +0000"
     },
     "done": true
   },

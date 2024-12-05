@@ -722,3 +722,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 05:20:06.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
 [05Dec2024 05:20:31.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [05Dec2024 05:20:52.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has reached the goal [Hunted]
+[05Dec2024 05:21:06.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[05Dec2024 05:21:27.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Dec2024 05:23:23.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Dec2024 05:23:35.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has reached the goal [Hunted]
+[05Dec2024 05:23:41.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
+[05Dec2024 05:23:45.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 was slain by The Moonflower
+[05Dec2024 05:23:45.376] [Server thread/INFO] [tombstone/]: The player B3L3_STR4D4 has successfully been saved
+[05Dec2024 05:23:58.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
+[05Dec2024 05:24:15.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
+[05Dec2024 05:24:33.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3246ms or 64 ticks behind
+[05Dec2024 05:24:55.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6855ms or 137 ticks behind
+[05Dec2024 05:25:14.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElProfeB99 lost connection: Timed out
+[05Dec2024 05:25:14.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 left the game
+[05Dec2024 05:25:16.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6004ms or 120 ticks behind
+[05Dec2024 05:25:35.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4152ms or 83 ticks behind
+[05Dec2024 05:25:53.346] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElProfeB99 is a8108f58-fd62-4760-9007-7ca004d88ed9
+[05Dec2024 05:25:54.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3444ms or 68 ticks behind
+[05Dec2024 05:25:59.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElProfeB99[/127.161.171.142:33171] logged in with entity id 27951 at (356.7296855733662, 0.0, 127.19057363694127)
+[05Dec2024 05:25:59.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 joined the game
+[05Dec2024 05:26:12.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
+[05Dec2024 05:26:29.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2643ms or 52 ticks behind
+[05Dec2024 05:26:50.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Dec2024 05:27:07.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Dec2024 05:27:24.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
+[05Dec2024 05:27:25.824] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElProfeB99 with unique ID ee7b98e2-c875-442c-a040-038833635f48
+[05Dec2024 05:27:25.825] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 306 Y: -10 Z: 115
+[05Dec2024 05:27:25.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was shot by Skeleton
+[05Dec2024 05:27:25.902] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[05Dec2024 05:27:42.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[05Dec2024 05:27:53.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was shot by Bonescaller
+[05Dec2024 05:27:53.421] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[05Dec2024 05:28:00.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[05Dec2024 05:28:21.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Dec2024 05:28:40.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3511ms or 70 ticks behind
+[05Dec2024 05:28:58.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
+[05Dec2024 05:29:17.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[05Dec2024 05:29:33.248] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID 88e0cf66-8b64-46d7-9263-4b7febb2203a
+[05Dec2024 05:29:33.249] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 236 Y: -24 Z: 60
+[05Dec2024 05:29:33.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has reached the goal [Strong or Careful]
+[05Dec2024 05:29:33.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was shot by Savannah Skeleton
+[05Dec2024 05:29:33.290] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[05Dec2024 05:29:35.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3770ms or 75 ticks behind
+[05Dec2024 05:29:43.741] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElProfeB99 with unique ID 19ffbd9f-429b-4782-81b5-5554d9a2bf90
+[05Dec2024 05:29:43.749] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 302 Y: -27 Z: 101
+[05Dec2024 05:29:43.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was blown up by Intruder
+[05Dec2024 05:29:43.761] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[05Dec2024 05:29:55.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4431ms or 88 ticks behind
+[05Dec2024 05:30:14.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3770ms or 75 ticks behind
+[05Dec2024 05:30:31.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
+[05Dec2024 05:30:49.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2661ms or 53 ticks behind
+[05Dec2024 05:31:07.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3021ms or 60 ticks behind
