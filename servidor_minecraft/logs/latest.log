@@ -687,3 +687,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 04:27:41.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
 [05Dec2024 04:27:59.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
 [05Dec2024 04:30:54.922] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9222, l='ServerLevel[world]', x=75.50, y=-256.00, z=53.30] died, message: 'Villager was killed'
+[05Dec2024 04:56:30.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3L3_STR4D4 lost connection: Timed out
+[05Dec2024 04:56:30.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 left the game
+[05Dec2024 04:56:30.755] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Dec2024 04:56:47.259] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player B3L3_STR4D4 is b5711cd6-460e-4b2d-99ca-3aba38a9557a
+[05Dec2024 04:56:56.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3L3_STR4D4[/127.130.80.146:36269] logged in with entity id 15630 at (146.5159731507042, 73.0, 46.858220868290125)
+[05Dec2024 04:56:56.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 joined the game
+[05Dec2024 04:59:36.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Dec2024 04:59:56.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
