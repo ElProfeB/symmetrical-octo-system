@@ -752,3 +752,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 04:39:33.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was struck by lightning
 [06Dec2024 04:39:33.832] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
 [06Dec2024 04:41:08.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Dec2024 04:51:44.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> sasd
+[06Dec2024 04:52:54.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> dormir
+[06Dec2024 04:52:56.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> ya
+[06Dec2024 04:52:59.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> B3L3_STR4D4
+[06Dec2024 04:53:01.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> ElProfeB99
+[06Dec2024 04:53:06.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> B3L3_STR4D4
+[06Dec2024 04:53:10.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> Shiza9828
+[06Dec2024 04:53:13.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <B3L3_STR4D4> mimir
+[06Dec2024 04:53:17.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> em fa
+[06Dec2024 04:53:18.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <B3L3_STR4D4> ohhh un nepe
+[06Dec2024 04:53:19.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <B3L3_STR4D4> jajajjaja
+[06Dec2024 04:53:22.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <B3L3_STR4D4> a cena le facena
+[06Dec2024 04:53:34.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> oooooh un pito
+[06Dec2024 04:53:37.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> no es cierto
+[06Dec2024 04:53:38.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shiza9828 lost connection: Disconnected
+[06Dec2024 04:53:38.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 left the game
+[06Dec2024 04:55:18.445] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Shiza9828 is f800f82f-08d6-432b-9df2-07e2d5262870
+[06Dec2024 04:55:23.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shiza9828[/127.141.255.115:48329] logged in with entity id 22810 at (80.49279651370641, 119.0, 40.62440187486227)
+[06Dec2024 04:55:23.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 joined the game
+[06Dec2024 04:56:44.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Dec2024 04:57:38.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06Dec2024 04:57:56.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Dec2024 04:58:13.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2412ms or 48 ticks behind
+[06Dec2024 04:58:44.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[06Dec2024 04:59:07.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06Dec2024 04:59:27.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[06Dec2024 04:59:49.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Dec2024 05:00:34.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
