@@ -869,3 +869,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 05:19:25.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2865ms or 57 ticks behind
 [06Dec2024 05:19:27.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Radioactive]
 [06Dec2024 05:19:43.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[06Dec2024 05:21:42.940] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID cddedb10-6332-4179-ac3b-4aa71c7c9ed8
+[06Dec2024 05:21:42.942] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 34 Y: 48 Z: 128
+[06Dec2024 05:21:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was doomed to fall by Skeleton
+[06Dec2024 05:21:42.950] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[06Dec2024 05:21:49.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Dec2024 05:22:08.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4104ms or 82 ticks behind
+[06Dec2024 05:22:19.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/37775, l='ServerLevel[world]', x=163.68, y=16.00, z=55.23] died: Toxic Slime was slain by ElProfeB99
+[06Dec2024 05:22:28.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [Nightmare Fuel]
+[06Dec2024 05:22:56.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was shot by Skeleton
+[06Dec2024 05:22:56.831] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[06Dec2024 05:22:57.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Who is Cutting Onions?]
+[06Dec2024 05:22:58.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Ice Bucket Challenge]
+[06Dec2024 05:23:05.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06Dec2024 05:23:25.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5067ms or 101 ticks behind
+[06Dec2024 05:24:12.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Into Fire]
+[06Dec2024 05:25:32.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=54, y=71, z=-51} BlockPos{x=52, y=70, z=-54}
+[06Dec2024 05:26:51.782] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID acb7191d-f0c9-4e14-adce-d1440ab49839
+[06Dec2024 05:26:51.785] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 128 Y: 48 Z: 88
+[06Dec2024 05:26:51.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was slain by Wither Skeleton
+[06Dec2024 05:26:51.800] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[06Dec2024 05:26:53.431] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElProfeB99 with unique ID 5d3cd89f-fd22-47b2-8e86-df14441bafa8
+[06Dec2024 05:26:53.431] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 121 Y: 8 Z: -11
+[06Dec2024 05:26:53.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Wither Skeleton
+[06Dec2024 05:26:53.473] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:27:07.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06Dec2024 05:28:25.487] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID da140941-d816-4b74-ae30-f1fac35014ee
+[06Dec2024 05:28:25.488] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 111 Y: 48 Z: 103
+[06Dec2024 05:28:25.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 withered away
+[06Dec2024 05:28:25.496] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[06Dec2024 05:28:40.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[06Dec2024 05:28:46.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [Stare Into Despair]
+[06Dec2024 05:28:46.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [The Beginning of An Adventure]
+[06Dec2024 05:29:00.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4798ms or 95 ticks behind
+[06Dec2024 05:29:19.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4236ms or 84 ticks behind
