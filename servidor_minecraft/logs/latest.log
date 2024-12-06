@@ -903,3 +903,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 05:28:46.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [The Beginning of An Adventure]
 [06Dec2024 05:29:00.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4798ms or 95 ticks behind
 [06Dec2024 05:29:19.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4236ms or 84 ticks behind
+[06Dec2024 05:32:37.539] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID 87a0b5b7-d554-4c30-a9b6-523809499546
+[06Dec2024 05:32:37.540] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 92 Y: 48 Z: 77
+[06Dec2024 05:32:37.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was slain by Wither Skeleton
+[06Dec2024 05:32:37.554] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[06Dec2024 05:32:46.682] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElProfeB99 with unique ID fc313245-7cca-45fd-9af5-7ff807e64594
+[06Dec2024 05:32:46.682] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 26 Y: 8 Z: 57
+[06Dec2024 05:32:46.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Wither Skeleton
+[06Dec2024 05:32:46.691] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:33:03.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Wither Skeleton
+[06Dec2024 05:33:03.146] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:33:16.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Wither Skeleton
+[06Dec2024 05:33:17.002] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:33:31.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Wither Skeleton
+[06Dec2024 05:33:31.218] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:33:43.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Wither Skeleton
+[06Dec2024 05:33:43.984] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:33:51.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Dec2024 05:34:05.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Wither Skeleton
+[06Dec2024 05:34:05.191] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:34:18.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was slain by Wither Skeleton
+[06Dec2024 05:34:18.312] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[06Dec2024 05:34:19.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Dec2024 05:34:27.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Wither Skeleton
+[06Dec2024 05:34:27.566] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:34:36.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[06Dec2024 05:34:55.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3829ms or 76 ticks behind
+[06Dec2024 05:34:58.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [Rotten to the Core]
+[06Dec2024 05:35:13.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2649ms or 52 ticks behind
+[06Dec2024 05:35:31.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3614ms or 72 ticks behind
+[06Dec2024 05:35:49.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[06Dec2024 05:36:08.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3875ms or 77 ticks behind
+[06Dec2024 05:36:27.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3686ms or 73 ticks behind
+[06Dec2024 05:36:45.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3567ms or 71 ticks behind
+[06Dec2024 05:37:03.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
+[06Dec2024 05:37:21.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2800ms or 56 ticks behind
+[06Dec2024 05:37:39.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
+[06Dec2024 05:37:56.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[06Dec2024 05:38:14.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3045ms or 60 ticks behind
+[06Dec2024 05:38:33.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3790ms or 75 ticks behind
+[06Dec2024 05:38:51.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3048ms or 60 ticks behind
+[06Dec2024 05:39:09.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
+[06Dec2024 05:39:28.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3254ms or 65 ticks behind
+[06Dec2024 05:39:45.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
+[06Dec2024 05:40:03.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
+[06Dec2024 05:40:08.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3L3_STR4D4 lost connection: Disconnected
+[06Dec2024 05:40:08.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 left the game
