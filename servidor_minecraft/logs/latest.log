@@ -780,3 +780,52 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 04:59:27.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
 [06Dec2024 04:59:49.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [06Dec2024 05:00:34.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[06Dec2024 05:01:57.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Incendium]
+[06Dec2024 05:01:57.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [We Need to Go Deeper]
+[06Dec2024 05:02:01.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11591ms or 231 ticks behind
+[06Dec2024 05:02:03.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [Incendium]
+[06Dec2024 05:02:03.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [We Need to Go Deeper]
+[06Dec2024 05:02:03.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [Incendium]
+[06Dec2024 05:02:03.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [We Need to Go Deeper]
+[06Dec2024 05:02:09.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [The Soul Forge]
+[06Dec2024 05:02:14.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [The Soul Forge]
+[06Dec2024 05:02:14.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [The Soul Forge]
+[06Dec2024 05:03:03.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [A Terrible Fortress]
+[06Dec2024 05:03:16.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [A Terrible Fortress]
+[06Dec2024 05:03:28.572] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElProfeB99 with unique ID 3bd06873-c3ed-4dca-b582-572916cd06c3
+[06Dec2024 05:03:28.573] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 25 Y: 54 Z: 45
+[06Dec2024 05:03:28.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Blaze
+[06Dec2024 05:03:28.585] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:05:26.908] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26889, l='ServerLevel[world]', x=86.81, y=-256.00, z=47.43] died, message: 'Villager was killed'
+[06Dec2024 05:05:50.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [A Terrible Fortress]
+[06Dec2024 05:05:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Stare Into Despair]
+[06Dec2024 05:05:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [The Beginning of An Adventure]
+[06Dec2024 05:06:07.332] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID 43a7bbb3-1387-4234-894e-017b816032a4
+[06Dec2024 05:06:07.332] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 57 Y: 72 Z: 48
+[06Dec2024 05:06:07.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 withered away
+[06Dec2024 05:06:07.393] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[06Dec2024 05:07:17.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has reached the goal [The Bloody Altar]
+[06Dec2024 05:07:33.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [Into Fire]
+[06Dec2024 05:08:37.783] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElProfeB99 with unique ID 09a67b72-e819-473a-8e5e-99b87f597960
+[06Dec2024 05:08:37.784] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 104 Y: 88 Z: 35
+[06Dec2024 05:08:37.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 walked into fire whilst fighting Wither Skeleton
+[06Dec2024 05:08:37.791] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:08:55.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was burnt to a crisp whilst fighting Wither Skeleton
+[06Dec2024 05:08:55.401] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:09:13.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was burnt to a crisp whilst fighting Wither Skeleton
+[06Dec2024 05:09:13.055] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:09:28.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was burnt to a crisp whilst fighting Wither Skeleton
+[06Dec2024 05:09:28.572] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:09:46.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was burnt to a crisp whilst fighting Wither Skeleton
+[06Dec2024 05:09:46.570] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:09:51.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06Dec2024 05:10:12.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Wither Skeleton
+[06Dec2024 05:10:12.594] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:10:28.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Wither Skeleton
+[06Dec2024 05:10:28.307] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:10:30.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has reached the goal [The Bloody Altar]
+[06Dec2024 05:10:38.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 was slain by Wither Skeleton
+[06Dec2024 05:10:38.855] [Server thread/INFO] [tombstone/]: The player ElProfeB99 has successfully been saved
+[06Dec2024 05:10:40.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[06Dec2024 05:10:59.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3874ms or 77 ticks behind
+[06Dec2024 05:11:18.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3880ms or 77 ticks behind
