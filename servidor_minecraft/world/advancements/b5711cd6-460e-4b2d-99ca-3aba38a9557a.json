@@ -427,77 +427,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "immersive_paintings:misc/glow_painting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
+      "has_item": "2024-12-05 05:11:55 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
+    "done": true
   },
   "enemyexpansion:hunted": {
     "criteria": {
@@ -505,15 +439,21 @@
     },
     "done": true
   },
-  "immersive_paintings:misc/glow_painting": {
-    "criteria": {
-      "has_item": "2024-12-05 05:11:55 +0000"
-    },
-    "done": true
-  },
   "enemyexpansion:vampire_slayer": {
     "criteria": {
       "vampire_slayer_0": "2024-12-05 05:40:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 04:02:21 +0000"
     },
     "done": true
   },
