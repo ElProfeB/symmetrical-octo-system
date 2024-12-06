@@ -316,7 +316,8 @@
       "golden_carrot": "2024-12-01 08:05:51 +0000",
       "cooked_rabbit": "2024-12-01 07:45:27 +0000",
       "cooked_chicken": "2024-11-30 06:18:07 +0000",
-      "mushroom_stew": "2024-11-29 05:51:39 +0000"
+      "mushroom_stew": "2024-11-29 05:51:39 +0000",
+      "cooked_salmon": "2024-12-06 05:14:41 +0000"
     },
     "done": false
   },
@@ -576,6 +577,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2024-12-06 05:19:27 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2024-12-06 05:02:09 +0000"
@@ -590,7 +597,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-06 05:02:03 +0000"
+      "minecraft:nether_wastes": "2024-12-06 05:02:03 +0000",
+      "minecraft:basalt_deltas": "2024-12-06 05:19:42 +0000"
     },
     "done": false
   },
@@ -629,6 +637,12 @@
       "in_better_skeleton_dungeon": "2024-12-06 04:16:24 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2024-12-06 05:19:27 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
