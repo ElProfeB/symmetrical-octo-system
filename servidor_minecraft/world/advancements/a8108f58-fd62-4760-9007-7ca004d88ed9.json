@@ -485,7 +485,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2024-12-01 08:01:44 +0000"
+      "in_better_monster_room": "2024-12-01 08:01:44 +0000",
+      "in_better_skeleton_dungeon": "2024-12-06 04:16:24 +0000"
     },
     "done": false
   },
@@ -574,77 +575,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/christmas": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
+      "coded_trigger": "2024-12-06 04:13:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "betterdungeons:skeleton_dungeon": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
+      "in_better_skeleton_dungeon": "2024-12-06 04:16:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "tombstone:adventure/mysterious_gift": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
+      "coded_trigger": "2024-12-06 04:13:27 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 05:50:03 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

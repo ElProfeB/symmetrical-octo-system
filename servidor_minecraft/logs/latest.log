@@ -693,3 +693,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 04:02:21.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 joined the game
 [06Dec2024 04:02:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [Christmas]
 [06Dec2024 04:02:21.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [Mysterious Gift]
+[06Dec2024 04:13:21.504] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElProfeB99 is a8108f58-fd62-4760-9007-7ca004d88ed9
+[06Dec2024 04:13:27.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElProfeB99[/127.161.171.142:44511] logged in with entity id 6139 at (206.57345880639215, -50.0, 45.330708200137245)
+[06Dec2024 04:13:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 joined the game
+[06Dec2024 04:13:27.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Christmas]
+[06Dec2024 04:13:27.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Mysterious Gift]
+[06Dec2024 04:16:13.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06Dec2024 04:16:23.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [A Bone to Pick]
+[06Dec2024 04:16:24.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [A Bone to Pick]
+[06Dec2024 04:16:31.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2877ms or 57 ticks behind
+[06Dec2024 04:16:38.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [A Bone to Pick]
+[06Dec2024 04:16:51.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06Dec2024 04:17:32.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[06Dec2024 04:17:34.194] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Shiza9828 with unique ID 023b2a1e-274f-4209-97c1-1c670d32738e
+[06Dec2024 04:17:34.198] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 171 Y: -50 Z: 74
+[06Dec2024 04:17:34.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 was shot by Skeleton
+[06Dec2024 04:17:34.302] [Server thread/INFO] [tombstone/]: The player Shiza9828 has successfully been saved
+[06Dec2024 04:17:49.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
+[06Dec2024 04:18:06.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[06Dec2024 04:18:43.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Dec2024 04:19:28.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06Dec2024 04:19:34.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [Where Is The Stone Pen?]
+[06Dec2024 04:20:04.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [Magic Writing]
