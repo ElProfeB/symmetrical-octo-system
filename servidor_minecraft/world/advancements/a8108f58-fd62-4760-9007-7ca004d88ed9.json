@@ -690,6 +690,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 05:44:04 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat": "2024-12-07 05:00:33 +0000"
