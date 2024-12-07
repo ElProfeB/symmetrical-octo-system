@@ -696,6 +696,12 @@
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2024-12-07 05:29:50 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nightnight": {
     "criteria": {
       "nightnight": "2024-12-07 05:01:30 +0000"

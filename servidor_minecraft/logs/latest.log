@@ -833,3 +833,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 05:14:24.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
 [07Dec2024 05:17:47.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3L3_STR4D4 lost connection: Disconnected
 [07Dec2024 05:17:47.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 left the game
+[07Dec2024 05:29:20.159] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player B3L3_STR4D4 is b5711cd6-460e-4b2d-99ca-3aba38a9557a
+[07Dec2024 05:29:30.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3L3_STR4D4[/127.130.80.146:38781] logged in with entity id 40815 at (91.58653375894329, 122.0, 57.30000001192093)
+[07Dec2024 05:29:30.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 joined the game
+[07Dec2024 05:29:50.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has completed the challenge [Yo mama so fat, she digests her fetuses]
+[07Dec2024 05:33:17.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[07Dec2024 05:33:35.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2766ms or 55 ticks behind
