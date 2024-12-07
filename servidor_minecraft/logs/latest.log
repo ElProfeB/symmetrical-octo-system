@@ -732,3 +732,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 04:12:15.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [Radioactive]
 [07Dec2024 04:16:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 burned to death
 [07Dec2024 04:16:27.970] [Server thread/INFO] [tombstone/]: The player B3L3_STR4D4 has successfully been saved
+[07Dec2024 04:23:37.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20198, l='ServerLevel[world]', x=75.50, y=-256.00, z=53.30] died, message: 'Villager was killed'
+[07Dec2024 04:29:41.750] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElProfeB99 is a8108f58-fd62-4760-9007-7ca004d88ed9
+[07Dec2024 04:29:49.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElProfeB99[/127.161.171.142:57235] logged in with entity id 21712 at (133.21459204584593, 37.0, 237.59976224034645)
+[07Dec2024 04:29:49.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 joined the game
+[07Dec2024 04:29:58.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[07Dec2024 04:30:17.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3496ms or 69 ticks behind
+[07Dec2024 04:30:35.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3210ms or 64 ticks behind
+[07Dec2024 04:30:53.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3056ms or 61 ticks behind
+[07Dec2024 04:31:11.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[07Dec2024 04:31:30.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4261ms or 85 ticks behind
+[07Dec2024 04:31:48.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3253ms or 65 ticks behind
+[07Dec2024 04:32:06.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3311ms or 66 ticks behind
