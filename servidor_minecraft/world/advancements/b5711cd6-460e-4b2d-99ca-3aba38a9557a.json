@@ -498,6 +498,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-06 05:21:30 +0000",
       "minecraft:nether_wastes": "2024-12-06 05:02:04 +0000",
+      "minecraft:soul_sand_valley": "2024-12-07 05:55:01 +0000",
       "minecraft:basalt_deltas": "2024-12-06 05:28:09 +0000"
     },
     "done": false
@@ -576,9 +577,22 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:toxic_heap": "2024-12-07 04:12:15 +0000"
+      "incendium:toxic_heap": "2024-12-07 04:12:15 +0000",
+      "incendium:withered_forest": "2024-12-07 05:51:42 +0000"
     },
     "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2024-12-07 05:51:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2024-12-07 05:51:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
