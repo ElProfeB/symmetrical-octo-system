@@ -556,11 +556,23 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2024-12-07 04:12:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-07 03:52:36 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2024-12-07 04:12:15 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
