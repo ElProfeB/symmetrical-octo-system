@@ -315,6 +315,7 @@
       "cooked_mutton": "2024-11-29 05:47:20 +0000",
       "cooked_beef": "2024-11-30 06:40:13 +0000",
       "bread": "2024-11-29 05:48:36 +0000",
+      "golden_apple": "2024-12-07 07:59:52 +0000",
       "glow_berries": "2024-12-01 07:59:02 +0000",
       "golden_carrot": "2024-12-01 08:05:51 +0000",
       "cooked_rabbit": "2024-12-01 07:45:27 +0000",
@@ -713,6 +714,12 @@
       "coded_trigger": "2024-12-07 05:44:04 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-07 07:57:00 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
