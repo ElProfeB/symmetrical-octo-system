@@ -582,9 +582,21 @@
     },
     "done": false
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-07 06:04:00 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:withered_forest": "2024-12-07 05:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-07 06:04:55 +0000"
     },
     "done": true
   },
