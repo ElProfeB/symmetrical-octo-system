@@ -692,3 +692,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 03:47:43.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4783, l='ServerLevel[world]', x=86.81, y=-256.00, z=47.43] died, message: 'Villager was killed'
 [07Dec2024 03:47:51.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4862, l='ServerLevel[world]', x=86.81, y=-256.00, z=47.43] died, message: 'Villager was killed'
 [07Dec2024 03:48:59.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5227, l='ServerLevel[world]', x=75.50, y=-256.00, z=53.30] died, message: 'Villager was killed'
+[07Dec2024 03:51:36.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07Dec2024 03:52:02.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Dec2024 03:52:23.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 was slain by Savannah Skeleton
+[07Dec2024 03:52:23.285] [Server thread/INFO] [tombstone/]: The player B3L3_STR4D4 has successfully been saved
+[07Dec2024 03:52:24.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has made the advancement [The Most Useful Key]
+[07Dec2024 03:52:24.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[07Dec2024 03:52:36.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has reached the goal [A Fast Comeback]
+[07Dec2024 03:53:14.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[07Dec2024 03:53:40.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07Dec2024 03:53:57.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
+[07Dec2024 03:55:03.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[07Dec2024 03:59:26.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[07Dec2024 04:00:19.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07Dec2024 04:01:03.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[07Dec2024 04:01:22.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07Dec2024 04:01:25.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [When in Rome]
+[07Dec2024 04:01:40.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3620ms or 72 ticks behind
