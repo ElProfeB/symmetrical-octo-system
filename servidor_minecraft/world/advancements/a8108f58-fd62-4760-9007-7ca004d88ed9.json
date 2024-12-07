@@ -579,108 +579,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/christmas": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 05:43:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 05:43:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 05:43:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 05:43:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 05:43:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 05:43:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 05:43:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 05:43:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 05:43:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 05:43:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 05:43:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 05:43:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-12-06 05:22:57 +0000"
+      "coded_trigger": "2024-12-06 04:13:27 +0000"
     },
     "done": true
   },
-  "incendium:toxic_heap/root": {
+  "tombstone:adventure/mysterious_gift": {
     "criteria": {
-      "requirement": "2024-12-06 05:19:27 +0000"
+      "coded_trigger": "2024-12-06 04:13:27 +0000"
     },
     "done": true
   },
-  "cataclysm:find_soul_black_smith": {
+  "betterdungeons:skeleton_dungeon": {
     "criteria": {
-      "blacksmith": "2024-12-06 05:02:09 +0000"
+      "in_better_skeleton_dungeon": "2024-12-06 04:16:24 +0000"
     },
     "done": true
-  },
-  "endrem:main/nether_eye": {
-    "criteria": {
-      "nether_eye": "2024-12-06 05:05:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-12-06 05:02:03 +0000",
-      "minecraft:basalt_deltas": "2024-12-06 05:19:42 +0000"
-    },
-    "done": false
   },
   "incendium:root": {
     "criteria": {
@@ -700,15 +615,28 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "obsidian": "2024-12-06 05:22:58 +0000"
+      "minecraft:nether_wastes": "2024-12-06 05:02:03 +0000",
+      "minecraft:basalt_deltas": "2024-12-06 05:19:42 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-06 05:02:09 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "blaze_rod": "2024-12-06 05:24:12 +0000"
+      "in_better_fortress": "2024-12-06 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-06 05:05:54 +0000"
     },
     "done": true
   },
@@ -718,15 +646,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/christmas": {
+  "incendium:toxic_heap/root": {
     "criteria": {
-      "coded_trigger": "2024-12-06 04:13:27 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:skeleton_dungeon": {
-    "criteria": {
-      "in_better_skeleton_dungeon": "2024-12-06 04:16:24 +0000"
+      "requirement": "2024-12-06 05:19:27 +0000"
     },
     "done": true
   },
@@ -736,15 +658,21 @@
     },
     "done": false
   },
-  "tombstone:adventure/mysterious_gift": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "coded_trigger": "2024-12-06 04:13:27 +0000"
+      "crying_obsidian": "2024-12-06 05:22:57 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "in_better_fortress": "2024-12-06 05:03:03 +0000"
+      "obsidian": "2024-12-06 05:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-06 05:24:12 +0000"
     },
     "done": true
   },
