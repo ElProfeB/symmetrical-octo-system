@@ -583,9 +583,15 @@
     },
     "done": false
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "incendium:misc/root": {
     "criteria": {
-      "crying_obsidian": "2024-12-07 06:14:22 +0000"
+      "incendium:withered_forest": "2024-12-07 05:51:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2024-12-07 05:51:42 +0000"
     },
     "done": true
   },
@@ -595,27 +601,21 @@
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2024-12-07 07:35:53 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:withered_forest": "2024-12-07 05:51:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-07 06:04:55 +0000"
     },
     "done": true
   },
-  "incendium:withered_forest/root": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "requirement": "2024-12-07 05:51:42 +0000"
+      "crying_obsidian": "2024-12-07 06:14:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-07 07:35:53 +0000"
     },
     "done": true
   },

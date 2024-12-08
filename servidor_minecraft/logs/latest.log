@@ -687,3 +687,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 03:07:54.601] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12580, l='ServerLevel[world]', x=2616.50, y=73.00, z=65.50]
 [08Dec2024 03:08:14.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Gone Bananas!]
 [08Dec2024 03:09:19.001] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13523, l='ServerLevel[world]', x=2642.50, y=75.00, z=140.50]
+[08Dec2024 03:10:58.301] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14583, l='ServerLevel[world]', x=2643.50, y=75.00, z=140.50]
+[08Dec2024 03:11:00.751] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14605, l='ServerLevel[world]', x=2654.50, y=73.00, z=145.50]
+[08Dec2024 03:13:04.601] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player B3L3_STR4D4 is b5711cd6-460e-4b2d-99ca-3aba38a9557a
+[08Dec2024 03:13:13.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3L3_STR4D4[/127.130.80.146:33855] logged in with entity id 15838 at (72.05879121245032, 124.0625, 48.02942730772633)
+[08Dec2024 03:13:13.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 joined the game
+[08Dec2024 03:13:20.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Dec2024 03:13:37.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
+[08Dec2024 03:13:55.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
+[08Dec2024 03:14:13.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2746ms or 54 ticks behind
+[08Dec2024 03:14:22.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Cobweb Entanglement]
+[08Dec2024 03:14:22.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Professional Dungeoneer]
+[08Dec2024 03:14:30.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[08Dec2024 03:14:48.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[08Dec2024 03:15:05.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
+[08Dec2024 03:15:22.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Dec2024 03:15:59.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[08Dec2024 03:16:20.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5143ms or 102 ticks behind
+[08Dec2024 03:16:48.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Dec2024 03:17:21.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[08Dec2024 03:17:39.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3275ms or 65 ticks behind
+[08Dec2024 03:17:49.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElProfeB99 moved wrongly!

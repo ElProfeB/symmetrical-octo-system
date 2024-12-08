@@ -137,12 +137,14 @@
       "minecraft:sunflower_plains": "2024-11-30 05:47:56 +0000",
       "minecraft:bamboo_jungle": "2024-12-08 03:07:06 +0000",
       "minecraft:savanna_plateau": "2024-11-29 04:39:43 +0000",
+      "minecraft:beach": "2024-12-08 03:08:14 +0000",
       "minecraft:sparse_jungle": "2024-12-01 08:31:35 +0000",
       "minecraft:river": "2024-11-30 05:47:38 +0000",
       "minecraft:lukewarm_ocean": "2024-12-08 03:04:02 +0000",
       "minecraft:dripstone_caves": "2024-11-29 04:52:00 +0000",
       "minecraft:forest": "2024-12-01 07:47:28 +0000",
       "minecraft:desert": "2024-12-01 07:23:10 +0000",
+      "minecraft:jungle": "2024-12-08 03:09:49 +0000",
       "minecraft:warm_ocean": "2024-12-08 03:01:54 +0000",
       "minecraft:flower_forest": "2024-11-29 04:58:21 +0000",
       "minecraft:meadow": "2024-11-29 04:57:50 +0000",
@@ -496,9 +498,10 @@
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-07 04:01:25 +0000",
       "in_better_monster_room": "2024-12-01 08:01:44 +0000",
+      "in_better_spider_dungeon": "2024-12-08 03:14:22 +0000",
       "in_better_skeleton_dungeon": "2024-12-06 04:16:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "betterdungeons:small_dungeon": {
     "criteria": {
@@ -739,6 +742,30 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2024-12-07 08:15:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-12-08 03:08:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-08 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_ceryneian_hind": {
+    "criteria": {
+      "location0": "2024-12-08 03:15:21 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-08 03:14:22 +0000"
     },
     "done": true
   },
