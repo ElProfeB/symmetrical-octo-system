@@ -745,27 +745,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-08 03:07:45 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2024-12-08 03:08:14 +0000"
     },
     "done": true
   },
-  "paraglider:pray_to_the_goddess": {
+  "betterdungeons:spider_dungeon": {
     "criteria": {
-      "bargain": "2024-12-08 03:36:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2024-12-08 03:30:02 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-08 03:07:45 +0000"
+      "in_better_spider_dungeon": "2024-12-08 03:14:22 +0000"
     },
     "done": true
   },
@@ -775,15 +769,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-08 03:30:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2024-12-08 03:35:12 +0000"
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
+  "paraglider:pray_to_the_goddess": {
     "criteria": {
-      "in_better_spider_dungeon": "2024-12-08 03:14:22 +0000"
+      "bargain": "2024-12-08 03:36:34 +0000"
     },
     "done": true
   },
