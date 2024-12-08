@@ -236,6 +236,7 @@
       "minecraft:pillager": "2024-12-04 04:49:46 +0000",
       "minecraft:skeleton": "2024-12-01 07:04:06 +0000",
       "minecraft:vindicator": "2024-12-04 05:16:13 +0000",
+      "minecraft:creeper": "2024-12-08 08:10:41 +0000",
       "minecraft:slime": "2024-12-08 05:46:58 +0000",
       "minecraft:witch": "2024-12-04 05:38:20 +0000",
       "minecraft:cave_spider": "2024-12-08 07:18:49 +0000",
@@ -535,6 +536,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-12-08 07:29:04 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-12-08 08:09:50 +0000"
     },
     "done": true
   },
