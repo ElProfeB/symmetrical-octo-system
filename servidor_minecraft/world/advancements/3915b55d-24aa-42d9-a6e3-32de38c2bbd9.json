@@ -171,6 +171,7 @@
       "minecraft:forest": "2024-12-08 05:55:53 +0000",
       "minecraft:desert": "2024-12-04 05:20:18 +0000",
       "minecraft:flower_forest": "2024-12-01 07:03:29 +0000",
+      "minecraft:deep_dark": "2024-12-08 08:22:40 +0000",
       "minecraft:meadow": "2024-12-04 04:39:34 +0000",
       "minecraft:savanna": "2024-12-01 06:57:29 +0000",
       "minecraft:plains": "2024-12-01 07:14:38 +0000"
@@ -500,6 +501,18 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-08 06:42:45 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-08 08:22:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 08:16:15 +0000"
     },
     "done": true
   },

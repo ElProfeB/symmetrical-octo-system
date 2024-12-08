@@ -808,6 +808,12 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2024-12-08 08:22:18 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_purification": {
     "criteria": {
       "has_magic_scroll": "2024-12-08 08:07:21 +0000"
@@ -829,6 +835,12 @@
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2024-12-08 08:03:33 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-08 08:27:15 +0000"
     },
     "done": true
   },

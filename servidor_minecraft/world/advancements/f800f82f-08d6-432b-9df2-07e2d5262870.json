@@ -272,6 +272,7 @@
       "minecraft:spider": "2024-12-01 08:07:38 +0000",
       "minecraft:creeper": "2024-12-08 07:25:20 +0000",
       "minecraft:slime": "2024-12-01 08:50:08 +0000",
+      "quark:forgotten": "2024-12-08 08:23:13 +0000",
       "minecraft:wither_skeleton": "2024-12-06 05:04:24 +0000",
       "minecraft:cave_spider": "2024-12-05 05:09:18 +0000",
       "minecraft:zombie": "2024-12-01 07:58:49 +0000",
@@ -621,6 +622,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-08 07:04:14 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-08 08:23:17 +0000"
     },
     "done": true
   },
