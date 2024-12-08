@@ -234,6 +234,7 @@
       "minecraft:spider": "2024-11-29 05:16:31 +0000",
       "minecraft:piglin_brute": "2024-12-08 04:17:21 +0000",
       "minecraft:slime": "2024-12-08 03:47:48 +0000",
+      "minecraft:phantom": "2024-12-08 05:13:54 +0000",
       "minecraft:witch": "2024-12-01 08:04:43 +0000",
       "minecraft:wither_skeleton": "2024-12-06 05:07:18 +0000",
       "minecraft:husk": "2024-11-29 05:40:14 +0000",
@@ -633,6 +634,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2024-12-08 05:13:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-08 04:15:29 +0000"
@@ -650,6 +657,12 @@
       "cave_tablet": "2024-12-08 04:15:34 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-08 05:13:54 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

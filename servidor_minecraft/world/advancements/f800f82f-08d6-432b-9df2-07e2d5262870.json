@@ -123,9 +123,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2024-12-08 05:22:15 +0000",
       "log_spam_fixer": "2024-11-29 04:44:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "betterdeserttemples:root": {
     "criteria": {
@@ -264,6 +265,7 @@
       "minecraft:blaze": "2024-12-06 05:03:49 +0000",
       "minecraft:skeleton": "2024-11-29 05:39:40 +0000",
       "minecraft:ravager": "2024-12-04 05:35:55 +0000",
+      "minecraft:hoglin": "2024-12-08 05:18:54 +0000",
       "minecraft:spider": "2024-12-01 08:07:38 +0000",
       "minecraft:slime": "2024-12-01 08:50:08 +0000",
       "minecraft:wither_skeleton": "2024-12-06 05:04:24 +0000",
@@ -591,6 +593,12 @@
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2024-12-08 03:48:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2024-12-08 05:17:38 +0000"
     },
     "done": true
   },
