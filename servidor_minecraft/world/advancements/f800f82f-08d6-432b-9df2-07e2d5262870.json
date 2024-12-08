@@ -623,5 +623,11 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2024-12-08 07:32:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
