@@ -232,6 +232,7 @@
       "minecraft:skeleton": "2024-11-29 05:45:44 +0000",
       "minecraft:magma_cube": "2024-12-06 05:30:24 +0000",
       "minecraft:spider": "2024-11-29 05:16:31 +0000",
+      "minecraft:piglin_brute": "2024-12-08 04:17:21 +0000",
       "minecraft:slime": "2024-12-08 03:47:48 +0000",
       "minecraft:witch": "2024-12-01 08:04:43 +0000",
       "minecraft:wither_skeleton": "2024-12-06 05:07:18 +0000",
@@ -620,9 +621,33 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-08 04:15:32 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2024-12-08 03:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-08 04:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-08 04:15:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-08 04:15:34 +0000"
     },
     "done": true
   },
