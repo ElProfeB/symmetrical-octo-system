@@ -737,3 +737,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 03:30:02.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Splintering II]
 [08Dec2024 03:30:13.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
 [08Dec2024 03:30:31.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3065ms or 61 ticks behind
+[08Dec2024 03:35:12.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Rotten to the Core]
+[08Dec2024 03:36:34.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has reached the goal [Pray to the Goddess]
+[08Dec2024 03:36:37.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 has reached the goal [Pray to the Goddess]
+[08Dec2024 03:37:44.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[08Dec2024 03:38:02.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[08Dec2024 03:38:22.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5162ms or 103 ticks behind
+[08Dec2024 03:38:44.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7058ms or 141 ticks behind
+[08Dec2024 03:39:05.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6081ms or 121 ticks behind
+[08Dec2024 03:39:28.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8199ms or 163 ticks behind
+[08Dec2024 03:39:37.336] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Shiza9828 is f800f82f-08d6-432b-9df2-07e2d5262870
+[08Dec2024 03:39:43.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shiza9828[/127.141.255.115:40833] logged in with entity id 32887 at (82.94866334615247, 124.0625, 40.74236501732448)
+[08Dec2024 03:39:43.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 joined the game
+[08Dec2024 03:39:52.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9012ms or 180 ticks behind
+[08Dec2024 03:40:16.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8652ms or 173 ticks behind
+[08Dec2024 03:40:42.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11539ms or 230 ticks behind
+[08Dec2024 03:41:03.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5436ms or 108 ticks behind
+[08Dec2024 03:41:22.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4141ms or 82 ticks behind
