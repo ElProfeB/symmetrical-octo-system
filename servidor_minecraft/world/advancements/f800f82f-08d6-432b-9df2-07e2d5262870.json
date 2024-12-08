@@ -91,12 +91,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2024-12-08 06:41:25 +0000",
       "minecraft:savanna_plateau": "2024-11-29 04:44:13 +0000",
       "minecraft:river": "2024-12-01 07:05:41 +0000",
       "minecraft:dripstone_caves": "2024-11-29 05:01:51 +0000",
       "minecraft:forest": "2024-12-01 07:47:25 +0000",
       "minecraft:desert": "2024-12-04 05:29:09 +0000",
       "minecraft:jungle": "2024-12-01 08:43:10 +0000",
+      "minecraft:flower_forest": "2024-12-08 06:42:11 +0000",
       "minecraft:meadow": "2024-11-29 04:58:56 +0000",
       "minecraft:savanna": "2024-11-29 04:44:34 +0000",
       "minecraft:plains": "2024-12-01 08:19:20 +0000"
@@ -589,6 +591,12 @@
       "incendium:toxic_heap": "2024-12-06 05:15:42 +0000"
     },
     "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-08 06:42:38 +0000"
+    },
+    "done": true
   },
   "paraglider:pray_to_the_goddess": {
     "criteria": {

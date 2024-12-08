@@ -459,6 +459,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-08 06:42:45 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
       "location0": "2024-12-08 05:46:08 +0000"
