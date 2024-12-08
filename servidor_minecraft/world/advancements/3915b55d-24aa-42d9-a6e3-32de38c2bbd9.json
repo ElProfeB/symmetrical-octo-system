@@ -540,6 +540,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-12-08 09:02:17 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "lost_eye": "2024-12-08 07:39:06 +0000"

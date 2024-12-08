@@ -1002,3 +1002,52 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 08:57:05.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 has made the advancement [Chest Slayer]
 [08Dec2024 08:57:21.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11442ms or 228 ticks behind
 [08Dec2024 08:57:47.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11186ms or 223 ticks behind
+[08Dec2024 08:58:16.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13487ms or 269 ticks behind
+[08Dec2024 08:58:44.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13553ms or 271 ticks behind
+[08Dec2024 08:59:13.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13194ms or 263 ticks behind
+[08Dec2024 08:59:13.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/60158, l='ServerLevel[world]', x=-440.68, y=77.54, z=87.91] died, message: 'Beekeeper drowned'
+[08Dec2024 08:59:40.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12227ms or 244 ticks behind
+[08Dec2024 09:00:05.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10494ms or 209 ticks behind
+[08Dec2024 09:00:30.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9940ms or 198 ticks behind
+[08Dec2024 09:00:55.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9687ms or 193 ticks behind
+[08Dec2024 09:01:15.503] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66071, l='ServerLevel[world]', x=86.81, y=-256.00, z=47.43] died, message: 'Villager was killed'
+[08Dec2024 09:01:20.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9766ms or 195 ticks behind
+[08Dec2024 09:01:44.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9433ms or 188 ticks behind
+[08Dec2024 09:02:08.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9547ms or 190 ticks behind
+[08Dec2024 09:02:11.429] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:02:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 has made the advancement [Chompy]
+[08Dec2024 09:02:22.503] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:02:27.927] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Megaskich1 with unique ID a13e1db3-9506-4da1-8503-d26d1d2b467c
+[08Dec2024 09:02:27.928] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -647 Y: -13 Z: -145
+[08Dec2024 09:02:27.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by Crocodile
+[08Dec2024 09:02:27.993] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[08Dec2024 09:02:33.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9706ms or 194 ticks behind
+[08Dec2024 09:02:35.753] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:02:53.165] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:02:54.114] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:02:59.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10491ms or 209 ticks behind
+[08Dec2024 09:03:05.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:03:09.690] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:03:15.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by Crocodile
+[08Dec2024 09:03:16.018] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[08Dec2024 09:03:16.271] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:03:25.215] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:03:25.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11449ms or 228 ticks behind
+[08Dec2024 09:03:44.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has made the advancement [R.I.P. Yondu]
+[08Dec2024 09:03:50.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10471ms or 209 ticks behind
+[08Dec2024 09:04:16.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10556ms or 211 ticks behind
+[08Dec2024 09:04:41.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10266ms or 205 ticks behind
+[08Dec2024 09:05:07.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10258ms or 205 ticks behind
+[08Dec2024 09:05:32.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10233ms or 204 ticks behind
+[08Dec2024 09:05:56.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9397ms or 187 ticks behind
+[08Dec2024 09:06:21.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9537ms or 190 ticks behind
+[08Dec2024 09:06:45.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9641ms or 192 ticks behind
+[08Dec2024 09:06:45.986] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:07:09.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8946ms or 178 ticks behind
+[08Dec2024 09:07:25.914] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:07:26.975] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:07:27.773] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:07:30.753] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15858, l='ServerLevel[world]', x=-609.13, y=-20.04, z=10.32, removed=DISCARDED]
+[08Dec2024 09:07:33.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9014ms or 180 ticks behind
+[08Dec2024 09:07:57.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9028ms or 180 ticks behind
+[08Dec2024 09:08:22.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9737ms or 194 ticks behind
