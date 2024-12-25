@@ -233,6 +233,7 @@
       "minecraft:skeleton": "2024-11-29 05:53:31 +0000",
       "minecraft:ravager": "2024-12-04 05:54:53 +0000",
       "minecraft:vindicator": "2024-12-04 05:31:42 +0000",
+      "minecraft:magma_cube": "2024-12-25 10:25:43 +0000",
       "minecraft:spider": "2024-12-01 07:55:21 +0000",
       "minecraft:creeper": "2024-12-01 08:31:17 +0000",
       "minecraft:evoker": "2024-12-04 05:52:44 +0000",
@@ -866,6 +867,12 @@
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2024-12-25 09:32:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-25 10:24:23 +0000"
     },
     "done": true
   },

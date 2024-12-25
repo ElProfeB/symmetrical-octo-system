@@ -93,7 +93,9 @@
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-08 06:41:25 +0000",
       "minecraft:cherry_grove": "2024-12-08 08:57:36 +0000",
+      "minecraft:bamboo_jungle": "2024-12-25 10:23:35 +0000",
       "minecraft:savanna_plateau": "2024-11-29 04:44:13 +0000",
+      "minecraft:sparse_jungle": "2024-12-25 10:19:09 +0000",
       "minecraft:river": "2024-12-01 07:05:41 +0000",
       "minecraft:dripstone_caves": "2024-11-29 05:01:51 +0000",
       "minecraft:forest": "2024-12-01 07:47:25 +0000",
@@ -665,6 +667,12 @@
       "killed_evoker": "2024-12-25 09:55:06 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-25 10:25:14 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
