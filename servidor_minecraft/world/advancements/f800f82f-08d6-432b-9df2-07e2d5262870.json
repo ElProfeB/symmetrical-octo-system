@@ -652,5 +652,11 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2024-12-25 09:54:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
