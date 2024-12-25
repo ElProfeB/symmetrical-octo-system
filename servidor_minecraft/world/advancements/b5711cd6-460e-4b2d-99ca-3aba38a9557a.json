@@ -677,5 +677,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "supplementaries:flax": "2024-12-25 09:14:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

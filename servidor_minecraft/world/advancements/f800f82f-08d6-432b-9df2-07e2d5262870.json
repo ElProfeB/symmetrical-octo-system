@@ -622,77 +622,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 09:46:25 +0000"
+      "find_artifact": "2024-12-08 07:04:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "mowziesmobs:kill_grottol": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 09:46:25 +0000"
+      "grottol": "2024-12-08 07:32:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "quark:get_forgotten_hat": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 09:46:25 +0000"
+      "get_forgotten_hat": "2024-12-08 08:23:17 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-08 09:46:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-08 09:46:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-08 09:46:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-08 09:46:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-08 09:46:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-08 09:46:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-08 09:46:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-08 09:46:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-08 09:46:25 +0000"
-    },
-    "done": false
+    "done": true
   },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
@@ -703,24 +649,6 @@
   "alexscaves:alexscaves/seeking_arrow": {
     "criteria": {
       "seeking_arrow": "2024-12-08 09:03:44 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2024-12-08 07:04:14 +0000"
-    },
-    "done": true
-  },
-  "quark:get_forgotten_hat": {
-    "criteria": {
-      "get_forgotten_hat": "2024-12-08 08:23:17 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_grottol": {
-    "criteria": {
-      "grottol": "2024-12-08 07:32:42 +0000"
     },
     "done": true
   },
