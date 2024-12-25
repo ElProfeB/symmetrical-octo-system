@@ -243,6 +243,7 @@
       "minecraft:husk": "2024-11-29 05:46:14 +0000",
       "minecraft:cave_spider": "2024-12-01 08:00:52 +0000",
       "minecraft:silverfish": "2024-12-07 03:54:42 +0000",
+      "minecraft:vex": "2024-12-25 10:01:48 +0000",
       "minecraft:zombie": "2024-11-29 04:48:03 +0000",
       "minecraft:drowned": "2024-12-01 07:07:15 +0000",
       "minecraft:zombie_villager": "2024-12-01 07:12:03 +0000"
@@ -865,6 +866,12 @@
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2024-12-25 09:32:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-25 09:56:03 +0000"
     },
     "done": true
   },
