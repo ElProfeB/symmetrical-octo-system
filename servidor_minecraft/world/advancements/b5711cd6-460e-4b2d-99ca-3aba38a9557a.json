@@ -677,6 +677,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-25 09:32:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "supplementaries:flax": "2024-12-25 09:14:10 +0000"
