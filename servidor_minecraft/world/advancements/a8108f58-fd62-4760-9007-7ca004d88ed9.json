@@ -883,5 +883,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/seeking_arrow": {
+    "criteria": {
+      "seeking_arrow": "2024-12-28 07:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-28 08:00:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

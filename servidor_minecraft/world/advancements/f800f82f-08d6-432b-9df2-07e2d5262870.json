@@ -700,5 +700,29 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-28 08:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-28 08:01:01 +0000"
+    },
+    "done": false
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "nether_eye": "2024-12-28 08:02:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-28 08:06:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
