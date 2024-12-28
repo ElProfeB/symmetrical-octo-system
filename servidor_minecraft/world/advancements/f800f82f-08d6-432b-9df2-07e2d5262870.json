@@ -754,5 +754,11 @@
     },
     "done": true
   },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-28 09:50:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
