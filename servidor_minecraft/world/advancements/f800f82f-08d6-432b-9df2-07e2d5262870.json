@@ -718,6 +718,12 @@
     },
     "done": true
   },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2024-12-28 09:56:47 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "nether_eye": "2024-12-28 08:02:30 +0000"
