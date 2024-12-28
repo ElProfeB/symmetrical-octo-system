@@ -712,6 +712,12 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-28 08:16:07 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "nether_eye": "2024-12-28 08:02:30 +0000"
@@ -721,6 +727,18 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-12-28 08:06:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-28 08:17:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-12-28 08:16:36 +0000"
     },
     "done": true
   },
