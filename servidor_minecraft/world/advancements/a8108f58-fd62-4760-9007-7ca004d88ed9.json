@@ -133,6 +133,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-28 10:05:38 +0000",
       "quark:glimmering_weald": "2024-12-08 08:12:57 +0000",
       "minecraft:cherry_grove": "2024-11-30 05:53:01 +0000",
       "minecraft:sunflower_plains": "2024-11-30 05:47:56 +0000",
@@ -143,6 +144,7 @@
       "minecraft:river": "2024-11-30 05:47:38 +0000",
       "minecraft:lukewarm_ocean": "2024-12-08 03:04:02 +0000",
       "minecraft:dripstone_caves": "2024-11-29 04:52:00 +0000",
+      "minecraft:jagged_peaks": "2024-12-28 10:05:36 +0000",
       "minecraft:forest": "2024-12-01 07:47:28 +0000",
       "minecraft:lush_caves": "2024-12-25 10:51:36 +0000",
       "minecraft:desert": "2024-12-01 07:23:10 +0000",
@@ -880,6 +882,12 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2024-12-25 10:24:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-28 10:06:48 +0000"
     },
     "done": true
   },
