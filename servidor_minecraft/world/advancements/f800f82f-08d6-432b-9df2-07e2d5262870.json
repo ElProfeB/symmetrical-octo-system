@@ -798,5 +798,11 @@
     },
     "done": true
   },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-12-29 08:49:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
