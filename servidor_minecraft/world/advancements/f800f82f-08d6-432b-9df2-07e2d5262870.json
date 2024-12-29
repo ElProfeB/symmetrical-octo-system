@@ -104,6 +104,7 @@
       "minecraft:desert": "2024-12-04 05:29:09 +0000",
       "minecraft:jungle": "2024-12-01 08:43:10 +0000",
       "minecraft:flower_forest": "2024-12-08 06:42:11 +0000",
+      "minecraft:deep_dark": "2024-12-29 09:41:34 +0000",
       "minecraft:meadow": "2024-11-29 04:58:56 +0000",
       "minecraft:savanna": "2024-11-29 04:44:34 +0000",
       "minecraft:plains": "2024-12-01 08:19:20 +0000"
@@ -771,6 +772,12 @@
   "friendsandfoes:adventure/complete_hide_and_seek_game": {
     "criteria": {
       "friendsandfoes:complete_hide_and_seek_game": "2024-12-28 10:03:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-29 09:41:34 +0000"
     },
     "done": true
   },
