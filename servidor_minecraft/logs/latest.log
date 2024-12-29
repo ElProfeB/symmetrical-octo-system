@@ -897,3 +897,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 08:18:34.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14844ms or 296 ticks behind
 [29Dec2024 08:19:05.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15770ms or 315 ticks behind
 [29Dec2024 08:19:12.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiza9828 has completed the challenge [The Power of the Sun]
+[29Dec2024 08:19:35.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3877, l='ServerLevel[world]', x=-388.28, y=65.91, z=155.43] died, message: 'Villager was struck down by Legioner'
+[29Dec2024 08:19:37.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17746ms or 354 ticks behind
+[29Dec2024 08:20:10.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17938ms or 358 ticks behind
+[29Dec2024 08:20:16.289] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47103, l='ServerLevel[world]', x=73.62, y=-256.00, z=46.63] died, message: 'Villager was killed'
+[29Dec2024 08:20:43.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17339ms or 346 ticks behind
+[29Dec2024 08:20:58.956] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/3888, l='ServerLevel[world]', x=-392.84, y=66.39, z=155.63] died, message: 'Beekeeper was struck down by Legioner'
+[29Dec2024 08:21:01.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3882, l='ServerLevel[world]', x=-393.65, y=66.36, z=155.05] died, message: 'Villager was struck down by Legioner'
+[29Dec2024 08:21:10.543] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3884, l='ServerLevel[world]', x=-388.32, y=66.54, z=155.22] died, message: 'Villager was struck down by Legioner'
+[29Dec2024 08:21:14.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16539ms or 330 ticks behind
+[29Dec2024 08:21:15.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3885, l='ServerLevel[world]', x=-390.30, y=65.81, z=155.56] died, message: 'Villager was struck down by Legioner'
+[29Dec2024 08:21:19.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3887, l='ServerLevel[world]', x=-387.49, y=66.32, z=153.67] died, message: 'Villager was struck down by Legioner'
+[29Dec2024 08:21:24.519] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/4141, l='ServerLevel[world]', x=-387.95, y=66.00, z=153.05] died, message: 'Nitwit was struck down by Legioner'
+[29Dec2024 08:21:45.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3883, l='ServerLevel[world]', x=-384.51, y=66.48, z=152.33] died, message: 'Villager was struck down by Legioner'
+[29Dec2024 08:21:47.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17653ms or 353 ticks behind
+[29Dec2024 08:22:19.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16795ms or 335 ticks behind
+[29Dec2024 08:22:50.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16077ms or 321 ticks behind
+[29Dec2024 08:23:23.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18027ms or 360 ticks behind
+[29Dec2024 08:23:53.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15822ms or 316 ticks behind
+[29Dec2024 08:24:25.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16816ms or 336 ticks behind
+[29Dec2024 08:24:56.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16188ms or 323 ticks behind
+[29Dec2024 08:25:28.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16445ms or 328 ticks behind
+[29Dec2024 08:25:59.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16716ms or 334 ticks behind
+[29Dec2024 08:26:32.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17171ms or 343 ticks behind
+[29Dec2024 08:27:03.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16644ms or 332 ticks behind
+[29Dec2024 08:27:34.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16202ms or 324 ticks behind
+[29Dec2024 08:28:05.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15345ms or 306 ticks behind
+[29Dec2024 08:28:36.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16686ms or 333 ticks behind
+[29Dec2024 08:28:43.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Megaskich1 moved wrongly!
+[29Dec2024 08:29:02.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11119ms or 222 ticks behind
+[29Dec2024 08:29:28.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10708ms or 214 ticks behind
