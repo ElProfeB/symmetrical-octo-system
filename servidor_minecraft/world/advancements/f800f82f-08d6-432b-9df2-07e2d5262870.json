@@ -774,6 +774,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-29 09:08:28 +0000"
+    },
+    "done": false
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2024-12-29 07:54:13 +0000"
