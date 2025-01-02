@@ -747,6 +747,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-02 03:47:47 +0000"
+    },
+    "done": true
+  },
   "endrem:main/eyes_recipe": {
     "criteria": {
       "eyes": "2025-01-02 03:29:18 +0000"
