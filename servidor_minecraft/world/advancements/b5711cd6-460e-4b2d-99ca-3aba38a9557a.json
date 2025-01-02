@@ -746,5 +746,11 @@
     },
     "done": true
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-01-02 03:29:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
