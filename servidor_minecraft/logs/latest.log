@@ -7894,3 +7894,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 04:30:18.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13236ms or 264 ticks behind
 [02Jan2025 04:30:46.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13646ms or 272 ticks behind
 [02Jan2025 04:31:15.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14358ms or 287 ticks behind
+[02Jan2025 04:31:48.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17414ms or 348 ticks behind
+[02Jan2025 04:32:19.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15628ms or 312 ticks behind
+[02Jan2025 04:32:48.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14049ms or 280 ticks behind
+[02Jan2025 04:33:18.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15214ms or 304 ticks behind
+[02Jan2025 04:33:47.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14481ms or 289 ticks behind
+[02Jan2025 04:34:19.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16448ms or 328 ticks behind
+[02Jan2025 04:34:20.716] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[02Jan2025 04:34:51.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17611ms or 352 ticks behind
+[02Jan2025 04:35:22.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16136ms or 322 ticks behind
+[02Jan2025 04:35:48.309] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[02Jan2025 04:35:54.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16824ms or 336 ticks behind
+[02Jan2025 04:36:25.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15660ms or 313 ticks behind
+[02Jan2025 04:36:54.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> si van a dormir, verdad?
+[02Jan2025 04:36:54.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14795ms or 295 ticks behind
+[02Jan2025 04:36:57.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> o no?
+[02Jan2025 04:37:00.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> Pa salirme
+[02Jan2025 04:37:01.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> Alv
+[02Jan2025 04:37:04.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <B3L3_STR4D4> SHA
+[02Jan2025 04:37:04.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElProfeB99> XD
+[02Jan2025 04:37:15.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shiza9828> YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02Jan2025 04:37:23.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14010ms or 280 ticks behind
+[02Jan2025 04:37:42.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 has made the advancement [Lorem Ipsum]
+[02Jan2025 04:37:49.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Megaskich1 lost connection: Disconnected
+[02Jan2025 04:37:49.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 left the game
+[02Jan2025 04:37:52.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13665ms or 273 ticks behind
+[02Jan2025 04:38:10.508] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Megaskich1 is 3915b55d-24aa-42d9-a6e3-32de38c2bbd9
+[02Jan2025 04:38:17.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Megaskich1[/127.138.171.208:54537] logged in with entity id 91645 at (-1069.5002629795135, -53.0, 399.77204812105504)
+[02Jan2025 04:38:17.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 joined the game
+[02Jan2025 04:38:19.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11946ms or 238 ticks behind
+[02Jan2025 04:38:47.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13431ms or 268 ticks behind
+[02Jan2025 04:39:18.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15696ms or 313 ticks behind
+[02Jan2025 04:39:49.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16460ms or 329 ticks behind
+[02Jan2025 04:40:23.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18416ms or 368 ticks behind
+[02Jan2025 04:40:24.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElProfeB99 moved wrongly!
+[02Jan2025 04:40:56.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18163ms or 363 ticks behind
+[02Jan2025 04:41:28.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17222ms or 344 ticks behind
