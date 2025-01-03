@@ -759,5 +759,11 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2025-01-03 04:42:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

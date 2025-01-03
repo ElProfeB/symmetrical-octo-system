@@ -666,6 +666,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-03 04:51:31 +0000"
+    },
+    "done": true
+  },
   "placeablesmod:music_lover": {
     "criteria": {
       "music_lover": "2025-01-03 03:50:33 +0000"
