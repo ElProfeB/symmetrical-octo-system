@@ -230,6 +230,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-06 05:07:32 +0000",
+      "minecraft:pillager": "2025-01-03 05:43:18 +0000",
       "minecraft:skeleton": "2024-11-29 05:45:44 +0000",
       "minecraft:hoglin": "2024-12-08 05:22:29 +0000",
       "minecraft:magma_cube": "2024-12-06 05:30:24 +0000",
@@ -762,6 +763,18 @@
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow": "2025-01-03 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy": "2025-01-03 05:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-03 05:43:28 +0000"
     },
     "done": true
   },
