@@ -698,3 +698,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 03:47:38.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 has made the advancement [Nerd!]
 [03Jan2025 03:47:54.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5823ms or 116 ticks behind
 [03Jan2025 03:48:15.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6056ms or 121 ticks behind
+[03Jan2025 03:48:38.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7817ms or 156 ticks behind
+[03Jan2025 03:49:01.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8539ms or 170 ticks behind
+[03Jan2025 03:49:24.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7198ms or 143 ticks behind
+[03Jan2025 03:49:45.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6872ms or 137 ticks behind
+[03Jan2025 03:50:06.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5878ms or 117 ticks behind
+[03Jan2025 03:50:07.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6090, l='ServerLevel[world]', x=86.81, y=-256.00, z=47.43] died, message: 'Villager was killed'
+[03Jan2025 03:50:27.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5929ms or 118 ticks behind
+[03Jan2025 03:50:33.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 has made the advancement [Music Lover]
+[03Jan2025 03:50:49.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6923ms or 138 ticks behind
+[03Jan2025 03:51:10.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6288ms or 125 ticks behind
+[03Jan2025 03:51:31.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5910ms or 118 ticks behind
+[03Jan2025 03:51:53.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6603ms or 132 ticks behind
+[03Jan2025 03:52:16.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7975ms or 159 ticks behind
+[03Jan2025 03:52:40.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9462ms or 189 ticks behind
+[03Jan2025 03:53:02.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6868ms or 137 ticks behind
+[03Jan2025 03:53:23.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5875ms or 117 ticks behind
+[03Jan2025 03:53:44.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5895ms or 117 ticks behind
+[03Jan2025 03:54:05.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6062ms or 121 ticks behind
+[03Jan2025 03:54:27.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7325ms or 146 ticks behind
+[03Jan2025 03:54:50.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7742ms or 154 ticks behind
+[03Jan2025 03:55:14.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9087ms or 181 ticks behind
+[03Jan2025 03:55:35.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6504ms or 130 ticks behind
+[03Jan2025 03:55:58.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7193ms or 143 ticks behind
+[03Jan2025 03:56:19.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6827ms or 136 ticks behind
+[03Jan2025 03:56:41.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6568ms or 131 ticks behind
+[03Jan2025 03:56:47.616] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player B3L3_STR4D4 is b5711cd6-460e-4b2d-99ca-3aba38a9557a
+[03Jan2025 03:56:58.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3L3_STR4D4[/127.130.80.146:37243] logged in with entity id 7578 at (-129.2955983801725, 71.0, 94.12996186065659)
+[03Jan2025 03:56:58.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3L3_STR4D4 joined the game
+[03Jan2025 03:57:06.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9719ms or 194 ticks behind
+[03Jan2025 03:57:28.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7388ms or 147 ticks behind
+[03Jan2025 03:57:51.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7869ms or 157 ticks behind
+[03Jan2025 03:58:14.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7911ms or 158 ticks behind
+[03Jan2025 03:58:36.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7736ms or 154 ticks behind

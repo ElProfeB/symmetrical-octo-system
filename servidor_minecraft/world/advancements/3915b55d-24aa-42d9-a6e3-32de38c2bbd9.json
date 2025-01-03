@@ -653,5 +653,17 @@
     },
     "done": true
   },
+  "placeablesmod:librarian": {
+    "criteria": {
+      "librarian": "2025-01-03 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "placeablesmod:music_lover": {
+    "criteria": {
+      "music_lover": "2025-01-03 03:50:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
