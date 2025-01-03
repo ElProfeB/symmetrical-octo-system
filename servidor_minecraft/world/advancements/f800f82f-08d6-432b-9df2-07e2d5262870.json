@@ -91,6 +91,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-01-03 04:32:13 +0000",
       "quark:glimmering_weald": "2024-12-28 10:25:23 +0000",
       "minecraft:sunflower_plains": "2024-12-08 06:41:25 +0000",
       "minecraft:cherry_grove": "2024-12-08 08:57:36 +0000",
@@ -98,12 +99,15 @@
       "minecraft:savanna_plateau": "2024-11-29 04:44:13 +0000",
       "minecraft:sparse_jungle": "2024-12-25 10:19:09 +0000",
       "minecraft:river": "2024-12-01 07:05:41 +0000",
+      "minecraft:stony_shore": "2025-01-03 04:34:57 +0000",
       "minecraft:dripstone_caves": "2024-11-29 05:01:51 +0000",
       "minecraft:grove": "2025-01-02 03:39:16 +0000",
+      "minecraft:jagged_peaks": "2025-01-03 04:32:15 +0000",
       "minecraft:forest": "2024-12-01 07:47:25 +0000",
       "minecraft:lush_caves": "2024-12-25 10:39:31 +0000",
       "minecraft:desert": "2024-12-04 05:29:09 +0000",
       "minecraft:jungle": "2024-12-01 08:43:10 +0000",
+      "minecraft:ocean": "2025-01-03 04:35:00 +0000",
       "minecraft:flower_forest": "2024-12-08 06:42:11 +0000",
       "minecraft:deep_dark": "2024-12-29 09:41:34 +0000",
       "minecraft:meadow": "2024-11-29 04:58:56 +0000",
@@ -834,6 +838,12 @@
   "endrem:main/eyes_recipe": {
     "criteria": {
       "eyes": "2025-01-02 03:29:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-03 04:37:16 +0000"
     },
     "done": true
   },
