@@ -969,3 +969,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 05:29:51.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21736ms or 434 ticks behind
 [03Jan2025 05:30:28.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21901ms or 438 ticks behind
 [03Jan2025 05:31:05.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21385ms or 427 ticks behind
+[03Jan2025 05:31:33.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <B3L3_STR4D4> @PETA
+[03Jan2025 05:31:41.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21428ms or 428 ticks behind
+[03Jan2025 05:32:18.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22031ms or 440 ticks behind
+[03Jan2025 05:32:20.761] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/63386, l='ServerLevel[world]', x=-1262.50, y=73.00, z=-199.50]
+[03Jan2025 05:32:48.280] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Megaskich1 with unique ID 701ad1f2-f6fa-4e90-957b-2107eb998640
+[03Jan2025 05:32:48.281] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -955 Y: -45 Z: 179
+[03Jan2025 05:32:48.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was slain by Warden
+[03Jan2025 05:32:48.298] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[03Jan2025 05:32:52.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19322ms or 386 ticks behind
+[03Jan2025 05:33:22.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15082ms or 301 ticks behind
+[03Jan2025 05:33:55.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [They Have a Cave Troll!]
+[03Jan2025 05:33:58.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20555ms or 411 ticks behind
+[03Jan2025 05:34:34.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21317ms or 426 ticks behind
+[03Jan2025 05:35:10.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20694ms or 413 ticks behind
+[03Jan2025 05:35:44.166] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Megaskich1 with unique ID 699fa3ae-4aae-4529-bd0f-50b6efe412f7
+[03Jan2025 05:35:44.167] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -959 Y: -49 Z: 168
+[03Jan2025 05:35:44.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was obliterated by a sonically-charged shriek
+[03Jan2025 05:35:44.227] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[03Jan2025 05:35:45.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19784ms or 395 ticks behind
+[03Jan2025 05:36:19.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19090ms or 381 ticks behind
+[03Jan2025 05:36:53.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19515ms or 390 ticks behind
+[03Jan2025 05:37:30.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21994ms or 439 ticks behind
+[03Jan2025 05:37:40.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has made the advancement [Your First Receptacle]
+[03Jan2025 05:38:05.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20252ms or 405 ticks behind
+[03Jan2025 05:38:11.710] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Megaskich1 with unique ID c5117a9e-61c2-4d08-8013-0e2f5aab07eb
+[03Jan2025 05:38:11.711] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -964 Y: -47 Z: 189
+[03Jan2025 05:38:11.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Megaskich1 was obliterated by a sonically-charged shriek
+[03Jan2025 05:38:11.738] [Server thread/INFO] [tombstone/]: The player Megaskich1 has successfully been saved
+[03Jan2025 05:38:31.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11103ms or 222 ticks behind
+[03Jan2025 05:38:59.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12615ms or 252 ticks behind
+[03Jan2025 05:39:10.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has reached the goal [Great minds think alike]
+[03Jan2025 05:39:28.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14227ms or 284 ticks behind
+[03Jan2025 05:40:00.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16361ms or 327 ticks behind
+[03Jan2025 05:40:33.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18718ms or 374 ticks behind
+[03Jan2025 05:41:07.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18641ms or 372 ticks behind
+[03Jan2025 05:41:28.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElProfeB99 has reached the goal [Die Classy]
+[03Jan2025 05:41:41.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19077ms or 381 ticks behind
