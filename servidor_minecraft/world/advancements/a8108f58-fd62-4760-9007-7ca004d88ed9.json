@@ -982,6 +982,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-03 06:40:24 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2025-01-03 05:33:55 +0000"
